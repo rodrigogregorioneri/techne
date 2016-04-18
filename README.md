@@ -1,2 +1,2 @@
 # techne
-Projetos testes
+Projetos teste
